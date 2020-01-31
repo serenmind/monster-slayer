@@ -13,7 +13,7 @@
             </div>
         </div>
         <div class="small-6 columns">
-            <h1 class="text-center">MONSTER</h1>
+            <h1 class="text-center">KHUM's MONSTER</h1>
             <div class="healthbar">
                 <div 
                   class="healthbar text-center" 
